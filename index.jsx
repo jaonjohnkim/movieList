@@ -1,0 +1,1 @@
+ReactDOM.render(<App movies={window.movies}/>, document.getElementById('app'));
